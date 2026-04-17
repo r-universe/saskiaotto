@@ -5,3 +5,6 @@
 [submodule "SCIproj"]
 	path = SCIproj
 	url = https://github.com/saskiaotto/sciproj
+[submodule "rquiz"]
+	path = rquiz
+	url = https://github.com/saskiaotto/rquiz
